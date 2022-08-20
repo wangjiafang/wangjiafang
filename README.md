@@ -1,7 +1,15 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+ 
+ <!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://my.oschina.net/u/3339803"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+<!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=wangjiafang" alt="访客统计" /></div>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ### 👨‍💻大家好，我是小小白同学，热爱计算机科学和IT互联网事业，励志成为一名资深程序员🚀  
   
@@ -111,26 +119,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wangjiafang&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
