@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👨‍💻大家好，我是小小白同学，热爱计算机科学和IT互联网事业，励志成为一名资深程序员🚀</div>  
+### 👨‍💻大家好，我是小小白同学，热爱计算机科学和IT互联网事业，励志成为一名资深程序员🚀  
   
 
 - 🔭 I’m currently working on [卓锐证券](https://zrsechk.com/#/)  
